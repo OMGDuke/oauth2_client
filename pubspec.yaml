@@ -1,9 +1,9 @@
-name: oauth2_client
+name: oauth2_client_at
 description: Flutter library for interacting with standard or custom OAuth 2 servers. Provides convenience classes for secure token storage and automatic token refeshing.
-version: 1.4.5
-# author: TeraNet srl<info@teranet.it>
-homepage: https://github.com/teranetsrl/oauth2_client
-repository: https://github.com/teranetsrl/oauth2_client
+version: 1.4.6
+
+homepage: https://github.com/OMGDuke/oauth2_client
+repository: https://github.com/OMGDuke/oauth2_client
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
