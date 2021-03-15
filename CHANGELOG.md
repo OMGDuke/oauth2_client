@@ -1,3 +1,9 @@
+## [1.5.0] - 2021/03/15
+* Update dependencies
+
+## [1.4.6] - 2020/08/23
+* Add support for server auth
+
 ## [1.4.4] - 2020/08/10
 * Bugfixes (add null-aware operators)
 

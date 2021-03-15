@@ -1,10 +1,10 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:http/http.dart' as http;
 import 'package:mockito/mockito.dart';
-import 'package:oauth2_client/access_token_response.dart';
-import 'package:oauth2_client/oauth2_client.dart';
-import 'package:oauth2_client/src/oauth2_utils.dart';
-import 'package:oauth2_client/src/web_auth.dart';
+import 'package:oauth2_client_at/access_token_response.dart';
+import 'package:oauth2_client_at/oauth2_client.dart';
+import 'package:oauth2_client_at/src/oauth2_utils.dart';
+import 'package:oauth2_client_at/src/web_auth.dart';
 
 class WebAuthMockClient extends Mock implements WebAuth {}
 

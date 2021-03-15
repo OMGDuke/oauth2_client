@@ -1,13 +1,13 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mockito/mockito.dart';
-import 'package:oauth2_client/access_token_response.dart';
-import 'package:oauth2_client/oauth2_client.dart';
-import 'package:oauth2_client/oauth2_exception.dart';
-import 'package:oauth2_client/oauth2_helper.dart';
-import 'package:oauth2_client/oauth2_response.dart';
-import 'package:oauth2_client/src/secure_storage.dart';
-import 'package:oauth2_client/src/token_storage.dart';
-import 'package:oauth2_client/src/volatile_storage.dart';
+import 'package:oauth2_client_at/access_token_response.dart';
+import 'package:oauth2_client_at/oauth2_client.dart';
+import 'package:oauth2_client_at/oauth2_exception.dart';
+import 'package:oauth2_client_at/oauth2_helper.dart';
+import 'package:oauth2_client_at/oauth2_response.dart';
+import 'package:oauth2_client_at/src/secure_storage.dart';
+import 'package:oauth2_client_at/src/token_storage.dart';
+import 'package:oauth2_client_at/src/volatile_storage.dart';
 import 'package:http/http.dart' as http;
 
 class OAuth2ClientMock extends Mock implements OAuth2Client {}

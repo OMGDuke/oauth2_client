@@ -1,7 +1,7 @@
 import 'package:http/http.dart' as http;
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:oauth2_client/access_token_response.dart';
+import 'package:oauth2_client_at/access_token_response.dart';
 
 void main() {
   final accessToken = 'test_access_token';

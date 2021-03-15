@@ -1,6 +1,6 @@
 name: oauth2_client_at
 description: Flutter library for interacting with standard or custom OAuth 2 servers. Provides convenience classes for secure token storage and automatic token refeshing.
-version: 1.4.6
+version: 1.5.0
 
 homepage: https://github.com/OMGDuke/oauth2_client
 repository: https://github.com/OMGDuke/oauth2_client
@@ -12,9 +12,8 @@ dependencies:
   flutter:
     sdk: flutter
   meta: ^1.1.8
-  http: ^0.12.1
-  flutter_web_auth: #^0.2.4
-    git: 'https://github.com/okrad/flutter_web_auth.git'
+  http: ^0.13.0
+  flutter_web_auth: ^0.2.4
   random_string: ^2.0.1
   crypto: ^2.1.4
   flutter_secure_storage: ^3.3.3

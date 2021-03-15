@@ -2,10 +2,10 @@ import 'dart:convert';
 
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mockito/mockito.dart';
-import 'package:oauth2_client/access_token_response.dart';
-import 'package:oauth2_client/src/storage.dart';
-import 'package:oauth2_client/src/secure_storage.dart';
-import 'package:oauth2_client/src/token_storage.dart';
+import 'package:oauth2_client_at/access_token_response.dart';
+import 'package:oauth2_client_at/src/storage.dart';
+import 'package:oauth2_client_at/src/secure_storage.dart';
+import 'package:oauth2_client_at/src/token_storage.dart';
 
 class SecureStorageMock extends Mock implements SecureStorage {}
 

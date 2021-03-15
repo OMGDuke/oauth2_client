@@ -1,10 +1,10 @@
 import 'package:http/http.dart' as http;
-import 'package:oauth2_client/access_token_response.dart';
-import 'package:oauth2_client/authorization_response.dart';
+import 'package:oauth2_client_at/access_token_response.dart';
+import 'package:oauth2_client_at/authorization_response.dart';
 import 'package:meta/meta.dart';
-import 'package:oauth2_client/oauth2_response.dart';
-import 'package:oauth2_client/src/oauth2_utils.dart';
-import 'package:oauth2_client/src/web_auth.dart';
+import 'package:oauth2_client_at/oauth2_response.dart';
+import 'package:oauth2_client_at/src/oauth2_utils.dart';
+import 'package:oauth2_client_at/src/web_auth.dart';
 import 'package:random_string/random_string.dart';
 
 /// Base class that implements OAuth2 authorization flows.

@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:oauth2_client/authorization_response.dart';
+import 'package:oauth2_client_at/authorization_response.dart';
 
 void main() {
   final authCode = 'test_code';

@@ -1,4 +1,4 @@
-import 'package:oauth2_client/oauth2_client.dart';
+import 'package:oauth2_client_at/oauth2_client.dart';
 import 'package:meta/meta.dart';
 
 /// Implements an OAuth2 client that uses Google services to authorize requests.

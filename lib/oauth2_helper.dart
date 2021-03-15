@@ -1,10 +1,10 @@
-import 'package:oauth2_client/access_token_response.dart';
-import 'package:oauth2_client/oauth2_exception.dart';
-import 'package:oauth2_client/oauth2_client.dart';
+import 'package:oauth2_client_at/access_token_response.dart';
+import 'package:oauth2_client_at/oauth2_exception.dart';
+import 'package:oauth2_client_at/oauth2_client.dart';
 import 'package:http/http.dart' as http;
 import 'package:meta/meta.dart';
-import 'package:oauth2_client/oauth2_response.dart';
-import 'package:oauth2_client/src/token_storage.dart';
+import 'package:oauth2_client_at/oauth2_response.dart';
+import 'package:oauth2_client_at/src/token_storage.dart';
 
 /// Helper class for simplifying OAuth2 authorization process.
 ///

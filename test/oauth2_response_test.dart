@@ -1,7 +1,7 @@
 import 'package:http/http.dart' as http;
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:oauth2_client/oauth2_response.dart';
+import 'package:oauth2_client_at/oauth2_response.dart';
 
 void main() {
   test('Valid response', () async {
