@@ -1,3 +1,6 @@
+## [1.5.1] - 2021/03/15
+* Update dependencies - crypto
+
 ## [1.5.0] - 2021/03/15
 * Update dependencies
 
